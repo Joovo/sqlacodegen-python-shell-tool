@@ -4,7 +4,7 @@ Based on sqlacodegen.Using sqlacodegen in python shell.
 
 Sqlacodegen is useful in building model in bash.I create this file for the reason of the source code not supporting raw python-api.
 
-Copy the prog and config then you can use it in python project smoothliy.
+Copy the prog and config then you can use it in python project smoothly.
 
 # Sqlacodegen Python shell下的自动工具
 
